@@ -12,14 +12,13 @@
 ### Supervisor
 Cevdet Aykanat
 
-## Jury Members
+## Jury
 
-| Jury |
+| Jury Members |
 | ----------- | 
-|  |
-|  |
-|  |
-|  |
+| Shervin Arashloo |
+| Hamdi Dibeklioglu |
+| Cevdet Aykanat |
 
 ## Project Description
 Coupl is a mobile application that will create a safe environment for users to meet with new people in-person only in a matter of minutes. Event organizers will make their events available to the application and the users will join the events by scanning the QR codes provided in these event locations. The possible events include musical concerts, parties, art exhibitions and many more. Coupl will then match the users in the same event, based on their preference from the current participant pool and their history of event and matches in the application. 
